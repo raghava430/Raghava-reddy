@@ -4,8 +4,7 @@ if n>1:
         if(n%i==0):
             print("no")
             break
-        else:
-            print("yes")
-            break
+    else:
+        print("yes")
 else:
      print("yes")
